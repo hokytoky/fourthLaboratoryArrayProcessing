@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="fourthLaboratoryArrayProcessing/fourthLaboratoryArrayProcessing.vcxproj" Id="b2dbfcfc-ecae-4a39-9b4f-618e7b09b022" />
+</Solution>
